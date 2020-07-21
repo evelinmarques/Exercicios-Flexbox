@@ -16,7 +16,7 @@ Esses exercícios foram desenvolvidos com as seguintes tecnologias:
 ## Flex
 <img src="https://user-images.githubusercontent.com/56482367/88021116-4b7c5000-cb03-11ea-9dba-2752d7ddb7f9.PNG">
 
-## Flex row
+## Flex Row
 
 <img src="https://user-images.githubusercontent.com/56482367/88021738-6b604380-cb04-11ea-942c-6f2d7f3bcf83.PNG">
 
