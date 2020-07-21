@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grid system</title>
+    <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/example.css">
+
+</head>
+<body>
+    
+    <div class="container">
+
+        <div class="row">
+            <!--em order muda a ordem quando ele é visto em telas maiores, sem alterar o peso das colunas, isso é bom pois evita escrever quando o objetivo é mudar ordem dos itens em dispositivos diferentes-->
+            <div class="col col-md-3 order-sm-3">Primeiro</div>
+            <div class="col col-md-3 order-sm-2">Segundo</div>
+            <div class="col col-md-6 order-sm-1">Terceiro</div>
+        </div>
+    </div>
+
+        
+    
+    <script src="node_modules/jquery/dist/jquery.min.js"></script>
+    <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grid system</title>
+    <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/example.css">
+
+</head>
+<body>
+    
+    <div class="container">
+
+        <div class="row">
+            <div class="col-sm-8">.col-sm-8</div>
+            <div class="col-sm-4">.col-sm-4</div>
+        </div>
+
+        <div class="row"> <!--sm é small então ele só vai aplicar a partir de telas deitadas, se a tela for menor ele vai ignorar os tamanhos. verificar na responsividade -->
+            <div class="col-sm">auto sm</div>
+            <div class="col-sm-5">col-sm-5</div>
+            <div class="col-sm">auto sm</div>
+        </div>
+
+    </div>
+
+        
+    
+    <script src="node_modules/jquery/dist/jquery.min.js"></script>
+    <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+
+</body>
+</html>
