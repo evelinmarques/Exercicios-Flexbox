@@ -49,5 +49,5 @@ Esses exercícios foram desenvolvidos com as seguintes tecnologias:
 <img src="https://user-images.githubusercontent.com/56482367/88022597-f42baf00-cb05-11ea-8d50-140e5f9452c8.PNG">
 
 
-## 🚧 Repositório em Construção
+## 🚧 Em Construção
 Feito com ♥ por <a href="https://www.linkedin.com/in/evelinmarquess/">Évelin Marques</a> 👋
