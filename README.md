@@ -50,4 +50,4 @@ Esses exercícios foram desenvolvidos com as seguintes tecnologias:
 
 
 ## 🚧 Repositório em Construção
-Feito com ♥ by <a href="https://www.linkedin.com/in/evelinmarquess/">Évelin Marques</a> 👋
+Feito com ♥ por <a href="https://www.linkedin.com/in/evelinmarquess/">Évelin Marques</a> 👋
