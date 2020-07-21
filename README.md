@@ -11,7 +11,7 @@ Esses exercícios foram desenvolvidos com as seguintes tecnologias:
 * HTML
 * CSS
 
-## 💻 Exercícios realizados:
+## 💻 Exercícios:
 
 ## Flex
 <img src="https://user-images.githubusercontent.com/56482367/88021116-4b7c5000-cb03-11ea-9dba-2752d7ddb7f9.PNG">
