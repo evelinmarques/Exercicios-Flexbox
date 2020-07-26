@@ -48,6 +48,37 @@ Esses exercícios foram desenvolvidos com as seguintes tecnologias:
 
 <img src="https://user-images.githubusercontent.com/56482367/88022597-f42baf00-cb05-11ea-8d50-140e5f9452c8.PNG">
 
+## Flex Align Items
 
-## 🚧 Em Construção
+<img src="https://user-images.githubusercontent.com/56482367/88468797-3581dd00-cebf-11ea-9494-5877dfb32781.png">
+
+## Flex Fill
+
+<img src="https://user-images.githubusercontent.com/56482367/88468750-7deccb00-cebe-11ea-8569-52e6bfc3ec08.PNG">
+
+## Flex Justify Content
+
+<img src="https://user-images.githubusercontent.com/56482367/88468761-a1177a80-cebe-11ea-8b2f-a985b59eca32.PNG">
+
+## Flex NoWrap
+
+<img src="https://user-images.githubusercontent.com/56482367/88468766-c2786680-cebe-11ea-9065-9b37fcef58c7.PNG">
+
+## Flex Wrap
+
+<img src="https://user-images.githubusercontent.com/56482367/88468778-df149e80-cebe-11ea-8c2b-9797e5d780f1.PNG">
+
+## Flex Wrap Align Content
+
+<img src="https://user-images.githubusercontent.com/56482367/88468733-2cdcd700-cebe-11ea-9eca-84072291b10e.png">
+
+## Flex Wrap Order
+
+<img src="https://user-images.githubusercontent.com/56482367/88468848-9a3d3780-cebf-11ea-81fd-cd04fa4e28b4.PNG">
+
+## Flex Wrap Reverse
+
+<img src="https://user-images.githubusercontent.com/56482367/88468910-d329dc00-cec0-11ea-9c3a-8661dafe47c5.PNG">
+
+
 Feito com ♥ por <a href="https://www.linkedin.com/in/evelinmarquess/">Évelin Marques</a> 👋
