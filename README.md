@@ -11,12 +11,12 @@ Esses exercícios foram desenvolvidos com as seguintes tecnologias:
 * HTML
 * CSS
 
-## 💻 Exercícios realizados:
+## 💻 Exercícios:
 
 ## Flex
 <img src="https://user-images.githubusercontent.com/56482367/88021116-4b7c5000-cb03-11ea-9dba-2752d7ddb7f9.PNG">
 
-## Flex row
+## Flex Row
 
 <img src="https://user-images.githubusercontent.com/56482367/88021738-6b604380-cb04-11ea-942c-6f2d7f3bcf83.PNG">
 
@@ -49,5 +49,5 @@ Esses exercícios foram desenvolvidos com as seguintes tecnologias:
 <img src="https://user-images.githubusercontent.com/56482367/88022597-f42baf00-cb05-11ea-8d50-140e5f9452c8.PNG">
 
 
-## 🚧 Repositório em Construção
-Feito com ♥ by <a href="https://www.linkedin.com/in/evelinmarquess/">Évelin Marques</a> 👋
+## 🚧 Em Construção
+Feito com ♥ por <a href="https://www.linkedin.com/in/evelinmarquess/">Évelin Marques</a> 👋
