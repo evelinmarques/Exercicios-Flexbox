@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grid system</title>
+    <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/example.css">
+
+</head>
+<body>
+    
+    <div class="container">
+
+        <div class="d-flex bg"> <!--flex fill distribui por igual de acordo com o conteúdo-->
+            <div class="bg flex-fill p-2">TESTE TEXTO GRANDE</div> <!--p significa padding que é o espaço, só pode ir até 4-->
+            <div class="bg flex-fill p-2">2</div>
+            <div class="bg flex-fill p-2">3</div>
+    
+        </div>
+
+        <div class="d-flex bg">
+
+            <div class="bg p-2 flex-grow-1">1</div> <!--flex grow cresce sem distribuir igualmente-->
+            <div class="bg p-2 flex-grow-1">2</div>
+            <div class="bg p-2 flex-grow-1">3</div>
+        </div>
+
+        <div class="d-flex bg">
+            <div class="bg p-2 flex-shrink-1">1</div>
+            <div class="bg p-2 w-100">2</div>
+        </div>
+
+    </div>
+
+    <script src="node_modules/jquery/dist/jquery.min.js"></script>
+    <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+
+</body>
+</html>
